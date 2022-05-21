@@ -6,8 +6,8 @@ import time
 #Minha API abaixo:
 API_KEY = "c53804142281f803c220debe120c7643"
 
-cidade = "Sertaozinho"
-print('Agora na cidade de Sertaozinho :')
+cidade = 'São Paulo'
+print('Agora na cidade de São Paulo :')
 
 link = f"https://api.openweathermap.org/data/2.5/weather?q={cidade}&appid={API_KEY}"
 
