@@ -1,7 +1,4 @@
 import requests
-import imagem
-import interface
-import time
 
 #Minha API abaixo:
 API_KEY = "c53804142281f803c220debe120c7643"
