@@ -1,2 +1,2 @@
-# Análise de dados financeiros e automação
+# Automação
 Apenas fins didáticos
