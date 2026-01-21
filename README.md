@@ -1,2 +1,2 @@
-# Previsao_tempo.py
+# Análise de dados financeiros e automação
 Apenas fins didáticos
